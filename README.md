@@ -1,4 +1,4 @@
-# TravelBlog Website
+# EscapeEchoes
 
 This is a static website for TravelBlog, showcasing various destinations and travel blogs. It includes sections for destinations, travel blogs, sharing your own travel experiences, and connecting with the TravelBlog team.
 
@@ -25,7 +25,6 @@ This is a static website for TravelBlog, showcasing various destinations and tra
 
 - HTML
 - CSS
-- JavaScript
 - Font Awesome for icons
 
 ## Credits
